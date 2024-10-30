@@ -38,6 +38,9 @@ const config = {
         orange: {
           1: "#F97535",
         },
+        blue: {
+          1: "#2159E5",
+        },
         gray: {
           1: "#71788B",
         },
